@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spinner" type="id" />
+    <item name="deletBtn" type="id" />
+    <item name="editPhone" type="id" />
+    <item name="editName" type="id" />
+    <item name="editEmail" type="id" />
+</resources>
